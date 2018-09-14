@@ -1,0 +1,20 @@
+clockwise cl clo cloc clock clockwise
+counterclockwise co cou coun counter counterclockwise
+left lef left 
+right ri right
+drop d drop
+levelup levelu levelup
+leveldown leveld leveldown
+norandom n norandom
+random ra random
+sequence se
+I i I
+J j J
+L l L
+O o O
+S s S
+Z z Z
+T t T
+U u U
+restart re restart
+hint h hint
